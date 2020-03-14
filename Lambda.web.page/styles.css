@@ -1,0 +1,82 @@
+/* Imports font from Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,500&display=swap');
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    color: #A69D79;
+    background-color: #1F2024;
+}
+
+#main {
+    border: 5px;
+    border-radius: 15px;
+}
+
+#propic {
+    display:block;
+    text-align: center;
+    width: auto;
+    height: auto;
+    border: 2px;
+    border-radius: 50%;
+}
+
+#title {
+    color: #D11E7B;
+    margin-top: 2em;
+    margin-left: 5em;
+    padding: 20px;
+}
+
+.big-txt {
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.title-txt {
+    color: #D11E7B;
+    margin-top: 2em;
+    margin-left: 3em;
+    padding: 20px;
+
+}
+
+.sub-txt {
+    color: #6BC2D2;
+}
+
+.intro {
+    margin-left: 5em;
+    padding: 20px;
+}
+
+li {
+    list-style: none;
+}
+
+.bold-txt {
+    font-weight: bold;
+    color: #F6BA54;
+}
+
+.highlight {
+    color:#DB4661;
+}
+
+#center-buttons {
+    display: block;
+    text-align: center;
+}
+
+button {
+    font-size: 18px;
+    opacity: 90%;
+    color: #373633;
+    border: 0%;
+    background-color: #F6BA54;
+    padding: 2px;
+    margin: 5px;
+
+
+}
