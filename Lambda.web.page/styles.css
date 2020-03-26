@@ -8,11 +8,6 @@ body {
     background-color: #1F2024;
 }
 
-#main {
-    border: 5px;
-    border-radius: 15px;
-}
-
 #propic {
     display:block;
     text-align: center;
@@ -44,6 +39,8 @@ body {
 
 .sub-txt {
     color: #6BC2D2;
+    font-size: 2em;
+    display: block;
 }
 
 .intro {
